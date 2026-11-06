@@ -5,6 +5,7 @@ cải thiện:
 + file nhẹ hơn
 + giao diện tốt hơn
 + nhiều tool mới
+
 khác so với phiên bản cũ:
 + loại bỏ tính năng hay lỗi
 
