@@ -1,13 +1,17 @@
 1 harness agent trong 1 file py duy nhất!
 
-phiên bản(11.6.2026)
+phiên bản(9.11.2026)
 cải thiện: 
-+ file nhẹ hơn
-+ giao diện tốt hơn
-+ nhiều tool mới
-
-khác so với phiên bản cũ:
-+ loại bỏ tính năng hay lỗi
++ cải thiện Sub-Agent
++ thêm phím tắt
++ thêm chế độ phân quyền
++ cải thiện tool
++ thêm setting
++ thêm auto-compact khi đạt 90%
++ thêm tự retry khi API lỗi
++ oauth cho mcp
++ skill dạng thư mục
++ nhiều thứ khác
 
 ---
 ty
